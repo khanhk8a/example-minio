@@ -1,0 +1,2 @@
+# example-minio
+example-minio
